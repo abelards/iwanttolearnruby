@@ -1,24 +1,24 @@
-I want to learn ruby
-====================
+Je Veux Apprendre Ruby
+======================
 
-A community driven list of resources for people to learn ruby, whether they're ruby newbies or advanced users.
+Une liste communautaire de ressources pour apprendre Ruby que vous soyez débutant ou avancé.
 
-How to Contribute New Resources
--------------------------------
+Comment proposer de nouvelles ressources
+----------------------------------------
 
-1. Create a new file under _posts with name year-month-date-name.html
-2. Copy the contents of template.html into that file.
-3. Fill out/delete items from the header section as necessary.
-4. Add a description to the bottom of the file.
-5. [Optional] Add a 300x180 image to /images.
-6. You're done! Send in a pull request!
+1. Créez un nouveau fichier dans _posts nommé année-mois-date-title.html ;
+2. Copiez le contenu de template.html dans ce fichier ;
+3. Remplissez/Supprimez les entrées de l'en-tête selon vos besoins ;
+4. Ajoutez une description à la fin du fichier ;
+5. [Optionnel] Ajoutez une image de taille 300x180 dans /images ;
+6. C'est terminé ! Vous pouvez envoyer une pull request !
 
-What to Contribute
-------------------
+Quoi contribuer
+---------------
 
-Any resources you know that people can use to learn ruby (or rails, or anything else you think relevant).
+Toute ressource que vous pensez utile pour apprendre Ruby (ou Rails, ou tout ce qui vous semble pertinent).
 
-Resources I'm aware of that I haven't had a chance to evaluate and/or add yet include:
+Voici les ressources que je connais mais que je n'ai pas eu la chance d'évaluer ou d'inclure :
 
 * http://ruby-kickstart.com/
 * http://mislav.uniqpath.com/poignant-guide/
@@ -42,15 +42,15 @@ Resources I'm aware of that I haven't had a chance to evaluate and/or add yet in
 * http://codebrawl.com/
 * https://github.com/ryanb/ruby-warrior
 
-Improvements to the code or the site are also appreciated. Some ideas:
+Des améliorations du code ou du site seront également appréciées. Quelques idées :
 
-* Add rake task to generate new posts
-* Add javascript filtering by free/not free, level, instruction
-* Clean up the javascript so you can link to specific selections
+* Ajouter une tâche rake pour générer les articles ;
+* Ajouter un filtre javascript sur la gratuité, le niveau, les instructions ;
+* Nettoyer le javascript pour que vous puissiez lier une sélection spécifique.
 
-Disclaimer
-----------
+Annonce
+-------
 
-Tragically, I haven't had time (or money) to try all of these resources - I'm relying on impressions and descriptions for some of them.  If you feel the level is inaccurate, or the description is misleading, or you just don't like it - feel free to change it and send me a pull request!  I'd greatly appreciate it.
+Malheureusement, je n'ai pas eu le temps (ou l'argent) pour essayer toutes ces ressources - je me repose pour certains sur des impressions ou descriptions. Si vous pensez que le niveau n'est pas pertinent ou que la description est confuse ou que tout simplement vous ne l'aimez pas - vous pouvez la modifier et proposer une pull request. Elle sera très appréciée !
 
-Many of the descriptions are taken directly from the resource's site, I mean no copyright infringement by this.
+De nombreuses descriptions sont directement issue des sites eux-mêmes, je n'ai aucune volonté d'atteinte au copyright par cela.

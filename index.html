@@ -1,10 +1,10 @@
 ---
 layout: default
-title: iwanttolearnruby
+title: jeveuxapprendreruby
 ---
 
 <ul class='links'>
-  <li><a href="#all" id="post" class='current'>all</a></li>
+  <li><a href="#all" id="post" class='current'>tout</a></li>
   {% for category in site.categories %}
     <li><a href="#{{ category | first }}" id="{{ category | first }}">{{ category | first }}</a></li>
   {% endfor %}
@@ -62,5 +62,4 @@ title: iwanttolearnruby
       return false; // remove this later so people can actually link to sections
     });
   });
-
 </script>
