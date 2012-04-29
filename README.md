@@ -21,7 +21,6 @@ Toute ressource que vous pensez utile pour apprendre Ruby (ou Rails, ou tout ce 
 Voici les ressources que je connais mais que je n'ai pas eu la chance d'évaluer ou d'inclure :
 
 * http://ruby-kickstart.com/
-* http://mislav.uniqpath.com/poignant-guide/
 * http://teachmetocode.com/
 * http://rubylearning.com/
 * http://www.ruby-lang.org/en/documentation/quickstart/
