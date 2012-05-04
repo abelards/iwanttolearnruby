@@ -30,7 +30,6 @@ Voici les ressources que je connais mais que je n'ai pas eu la chance d'évaluer
 * http://rubymentor.rubyforge.org/
 * http://blog.rubybestpractices.com/posts/gregory/022-rbp-now-open.html
 * http://www.humblelittlerubybook.com/
-* http://ruby5.envylabs.com/
 * http://ruby-challenge.rubylearning.org/
 * http://tutorials.jumpstartlab.com/
 * http://ruby4kids.com/ruby4kids
